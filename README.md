@@ -1,2 +1,2 @@
 # DCTLs
-DCTL (DaVinci Color Transform Language)
+DaVinci Color Transform Language
