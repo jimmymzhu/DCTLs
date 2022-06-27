@@ -1,11 +1,11 @@
 # DCTLs
 DaVinci Color Transform Language
 
------
+---
 
 ## Contributors
 
-- Jimmy Zhu www.jimmyzhu.net
+- Jimmy Zhu, www.jimmyzhu.net
 
 ---
 
